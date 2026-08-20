@@ -1,0 +1,21 @@
+ocel_type;ocel_type_map
+Lodge Pickup Plan;LodgePickupPlan
+Assess Pickup Plan;AssessPickupPlan
+Approve Pickup Plan;ApprovePickupPlan
+Reject Pickup Plan;RejectPickupPlan
+Assign Truck;AssignTruck
+Enter the port;Enterport
+Register the truck arrival;RegisterTruckArrival
+Weigh the Empty Truck;WeighEmptyTruck
+Check Empty Truck Weight Abnormality;CheckEmptyTruckWeightAbnormality
+Fail to Weigh;FailtoWeigh
+Arrive at the Silo;ArriveatSilo
+Determine the Continuance of the Pickup;DetermineContinuanceofPickup
+Fail to Load;FailtoLoad
+Load Truck;LoadTruck
+Weigh the Loaded Truck;WeighLoadedTruck
+Evaluate the Truck Exit;EvaluateTruckExit
+Input the Tally Sheet;InputTallySheet
+Issue the Weighing Ticket;IssueWeighingTicket
+Detain at the port;DetainAtPort
+Exit the port;ExitPort
